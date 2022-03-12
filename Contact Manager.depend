@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1647085635 source:f:\aمحمد عصام\تاسكات الكلية\contact manager\src\phone.cpp
+	"phone.h"
+
+1647086495 f:\aمحمد عصام\تاسكات الكلية\contact manager\include\phone.h
+	<iostream>
+	<string>
+
+1647110511 source:f:\aمحمد عصام\تاسكات الكلية\contact manager\main.cpp
+	<iostream>
+	"contacts.h"
+
+1647082089 source:f:\aمحمد عصام\تاسكات الكلية\contact manager\src\adress.cpp
+	"adress.h"
+
+1647082089 f:\aمحمد عصام\تاسكات الكلية\contact manager\include\adress.h
+
+1647110128 source:f:\aمحمد عصام\تاسكات الكلية\contact manager\src\contacts.cpp
+	"contacts.h"
+	<string>
+	<iostream>
+
+1647110094 f:\aمحمد عصام\تاسكات الكلية\contact manager\include\contacts.h
+	"user.h"
+	<string>
+
+1647086625 source:f:\aمحمد عصام\تاسكات الكلية\contact manager\src\email.cpp
+	"email.h"
+
+1647086589 f:\aمحمد عصام\تاسكات الكلية\contact manager\include\email.h
+	<iostream>
+	<string>
+
+1647096426 source:f:\aمحمد عصام\تاسكات الكلية\contact manager\src\user.cpp
+	"user.h"
+
+1647089136 f:\aمحمد عصام\تاسكات الكلية\contact manager\include\user.h
+	<ctime>
+	<string>
+	<iostream>
+	"Phone.h"
+	"email.h"
+	"address.h"
+
+1647087380 source:f:\aمحمد عصام\تاسكات الكلية\contact manager\src\address.cpp
+	"address.h"
+
+1647095928 f:\aمحمد عصام\تاسكات الكلية\contact manager\include\address.h
+	<string>
+	<iostream>
+
